@@ -13,3 +13,7 @@ SecondHighest.secondHighestElement(arr);
 //(3) Find smallest Element in the array:
 int[] inputArray = { 50, 20, 60, 30, 70 };
 SmallestElement.findSmallestElement(inputArray);
+
+
+// (4) Second Smallest Element in the array:
+SecondSmallest.secondSmallestElement(inputArray);
