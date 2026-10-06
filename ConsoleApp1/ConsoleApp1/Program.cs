@@ -17,3 +17,8 @@ SmallestElement.findSmallestElement(inputArray);
 
 // (4) Second Smallest Element in the array:
 SecondSmallest.secondSmallestElement(inputArray);
+
+
+//(5)Find missing elemenet in the array1:
+int[] missingElementArr = { 1,2,3,5,6};
+MissingElement.findMissingElement(missingElementArr , 6);
