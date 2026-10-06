@@ -1,7 +1,7 @@
 ﻿using DSA_Problems;
 
 //(1) Find highest Element in the array:
-int[] arr = {40,30,70,90,50 };
+int[] arr = {40,30,70,90,50,30,50};
 HighestElement.HighestElementInArray(arr);
 
 
@@ -19,6 +19,9 @@ SmallestElement.findSmallestElement(inputArray);
 SecondSmallest.secondSmallestElement(inputArray);
 
 
-//(5)Find missing elemenet in the array1:
+//(5) Find missing elemenet in the array1:
 int[] missingElementArr = { 1,2,3,5,6};
-MissingElement.findMissingElement(missingElementArr , 6);
+MissingElement.findMissingElement(missingElementArr, 6);
+
+//(6) Remove Duplicate Elements from array:
+RemoveDuplicateElement.RemoveDuplicateItem(arr);
