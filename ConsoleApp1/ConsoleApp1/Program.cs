@@ -12,7 +12,7 @@ SecondHighest.secondHighestElement(arr);
 int[] inputArray = { 50, 20, 60, 30, 70 };
 SmallestElement.findSmallestElement(inputArray);
 
-// (4) Second Smallest Element in the array:
+//(4) Second Smallest Element in the array:
 SecondSmallest.secondSmallestElement(inputArray);
 
 //(5) Find missing elemenet in the array1:
@@ -23,3 +23,6 @@ MissingElement.findMissingElement(missingElementArr, 6);
 RemoveDuplicateElement.RemoveDuplicateItem(arr);
 RemoveDuplicateElement.printDuplicate(arr);
 
+//(7) MoveAlleroToEnd in the array:
+int[] zeroEnd = { 2, 5, 0, 3, 0, 7, 0, 9 };
+AllzeroToEnd.AllzeroEnd(zeroEnd);
