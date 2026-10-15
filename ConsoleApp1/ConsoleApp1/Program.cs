@@ -26,6 +26,7 @@ RemoveDuplicateElement.printDuplicate(arr);
 //(7) MoveAlleroToEnd in the array:
 int[] zeroEnd = { 2, 5, 0, 3, 0, 7, 0, 9 };
 AllzeroToEnd.AllzeroEnd(zeroEnd);
+AllzeroToEnd.AllzeroStart(zeroEnd);
 
 // (8) Reverse An array:
 int[] revArr = { 4, 5, 6, 311, 2, 6, 7, 8, 9 };
