@@ -31,3 +31,7 @@ AllzeroToEnd.AllzeroStart(zeroEnd);
 // (8) Reverse An array:
 int[] revArr = { 4, 5, 6, 311, 2, 6, 7, 8, 9 };
 ReverseArray.ReverserArr(revArr);
+
+// (9) Find Duplicate Elements in the array:
+int[] dupArr = { 3, 4, 5, 3, 4 };
+FindDuplicate.DuplicateElementsInArr(dupArr);
